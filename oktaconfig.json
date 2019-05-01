@@ -1,0 +1,11 @@
+{
+  "oktaAppSettings": {
+    "issuer": "https://login.vanbeeklabs.com/oauth2/default",
+    "oktaUrl": "https://avb.oktapreview.com",
+    "client_id": "0oahikuahrKHs",
+    "apiToken": "00MzjTFnWHNrKgBlGhM_IfugK-1NLO5s",
+    "client_secret": "pyf8VkqldvleV-ICBfF_JfdltyTW",
+    "redirect_uri": "http://localhost:3000/authorization-code/callback",
+    "scope": "openid profile"
+  }
+}
